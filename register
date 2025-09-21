@@ -1,0 +1,72 @@
+[33mcommit a8a13a9ae543e9ee083a89fb86a127ac2b010c55[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: f4e9ed6 26e2476
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:25:36 2025 +0100
+
+    Merge branch 'main' of https://github.com/Bfatahallah/TechCon_HTML
+
+[33mcommit f4e9ed6954c03d57965cd06f280edd2ffc3789bd[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:21:45 2025 +0100
+
+    3
+
+[33mcommit fb16541d6a3135301e5bb8f0ca8659830468ebde[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:20:32 2025 +0100
+
+    register page added
+
+[33mcommit a2db854dc9ce77684c76989559b79fb5591855b5[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:08:44 2025 +0100
+
+    added register page and applied some light makeup
+
+[33mcommit 26e247623775d6af54ca29c93efa5ecbd0c3b5dc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:08:44 2025 +0100
+
+    checker keeps playing games
+
+[33mcommit b17ed9279abc1fa496b9a6853ce2d1bb69b57963[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:05:55 2025 +0100
+
+    made changes to table caption
+
+[33mcommit e9ad7eb28a8d92d502f4c320eb8e69edf80f94d5[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 19:03:19 2025 +0100
+
+    added schedule page
+
+[33mcommit d56cf201cdf77444de63088034b58a91e1d1494c[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 18:56:57 2025 +0100
+
+    add about.html and made few changes to index file
+
+[33mcommit 7680c1a35206608d83b4b7916682a30423b0ff4d[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 18:44:48 2025 +0100
+
+    modification to index
+
+[33mcommit 8bbcdf0c6dd5edc8fcbbe584ff05c19fccc06110[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 18:40:26 2025 +0100
+
+    added changes to video section
+
+[33mcommit d3bc69f1913cad1b83e7102354a9295c8b620da8[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 18:13:19 2025 +0100
+
+    Reintroduce complete HTML structure for TechCon 2024 website
+
+[33mcommit 382ee83e136b023f35348ae34ec9e95bc0cf326a[m
+Author: badr fatahallah <b.fatahallah@hotmail.fr>
+Date:   Sun Sep 21 18:12:06 2025 +0100
+
+    Add initial HTML structure for TechCon 2024 website
